@@ -14,7 +14,7 @@
     <script type="text/javascript">
     
         // ask user for name with popup prompt    
-        var name = prompt("Enter your chat name:", "Guest");
+        var name = prompt("Enter your chat name:", "");
         
         // default name is 'Guest'
     	if (!name || name === ' ') {
@@ -90,7 +90,7 @@
     <div id="page-wrap">
     
         <h3>Chat Bot</h3>
-        <p style="color: #fff;">By Adeleye </p>
+        <p style="color: #fff;">By Adeleye. E </p>
         
         <p id="name-area"></p>
         
