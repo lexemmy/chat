@@ -90,7 +90,7 @@
     <div id="page-wrap">
     
         <h3>Chat Bot</h3>
-        <p style="color: #fff;">By Adeleye. E </p>
+        <p style="color: #fff;">By Adeleye</p>
         
         <p id="name-area"></p>
         
