@@ -51,9 +51,9 @@
                   }  
     		 																																																});
     		 // watch textarea for release of key press
-    		 $('#sendie').keyup(function(e) {	
-    		 					 
-    			  if (e.keyCode == 13) { 
+    		 $('#sendie').keypress(function(e) {	
+    		 	var keyCode = (event.keyCode ? event.keyCode : event.which);
+    			  if (keyCode == 13) { 
 
     			  
                     var text = $(this).val();
