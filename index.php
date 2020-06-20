@@ -55,6 +55,7 @@
     		 	var keyCode = (event.keyCode ? event.keyCode : event.which);
     			  if (keyCode == 13) { 
 
+alert ('enter key');
     			  
                     var text = $(this).val();
                     var reply = "welcome "+ name +" how may i help you";
