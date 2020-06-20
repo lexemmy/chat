@@ -34,3 +34,5 @@
 <span>leye</span>o 
 <span>Guest</span>hi 
 <span>hng bot</span>welcome Guest how may i help you
+<span>j</span>hi 
+<span>hng bot</span>welcome j how may i help you
