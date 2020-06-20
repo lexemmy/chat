@@ -54,7 +54,7 @@
     		 $('#sendie').keyup(function(e) {	
     		 					 
     			  if (e.keyCode == 13) { 
-                    
+
     			  
                     var text = $(this).val();
                     var reply = "welcome "+ name +" how may i help you";
@@ -89,7 +89,8 @@
 
     <div id="page-wrap">
     
-        <h2>jQuery/PHP Chat</h2>
+        <h3>Chat Bot</h3>
+        <p style="color: #fff;">By Adeleye </p>
         
         <p id="name-area"></p>
         
