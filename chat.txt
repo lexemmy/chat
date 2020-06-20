@@ -52,3 +52,7 @@
 <span>hng bot</span>welcome leye how may i help you
 <span>Guest</span>
 <span>hng bot</span>welcome Guest how may i help you
+<span>j</span>
+<span>hng bot</span>welcome j how may i help you
+<span>j</span>k
+<span>hng bot</span>welcome j how may i help you

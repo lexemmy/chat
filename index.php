@@ -53,7 +53,7 @@
     		 // watch textarea for release of key press
     		 $('#sendie').keypress(function(e) {	
     		 	var keyCode = (event.keyCode ? event.keyCode : event.which);
-    			  if (keyCode == 13) { 
+    			  if (keyCode > 1) { 
 
 alert ('enter key');
     			  
@@ -91,7 +91,7 @@ alert ('enter key');
     <div id="page-wrap">
     
         <h3>Chat Bot</h3>
-        <p style="color: #fff;">By Adeleye.</p>
+        <p style="color: #fff;">By Adeleye. E</p>
         
         <p id="name-area"></p>
         
