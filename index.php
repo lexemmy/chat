@@ -9,7 +9,9 @@
     
     <link rel="stylesheet" href="style.css" type="text/css" />
     
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+   
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+
     <script type="text/javascript" src="chat.js"></script>
     <script type="text/javascript">
     

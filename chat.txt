@@ -56,3 +56,5 @@
 <span>hng bot</span>welcome j how may i help you
 <span>j</span>k
 <span>hng bot</span>welcome j how may i help you
+<span>ll</span>j
+<span>hng bot</span>welcome ll how may i help you
