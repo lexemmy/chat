@@ -73,7 +73,7 @@
                          var reply = "corona virus is a deadly virus that attacks the respiratory <br> <br> system and symptoms shows after 2 weeks";
                      }
                       else {
-                         var reply = "hello " +name+ "i can give you info on convid-19 <br> <br> press 1 for corona virus update <br> <br> press 2 for corona virus symptoms <br> <br> press 3 for safety tips <br> <br> press 4 for lagos update <br> <br> press 5 to know more about corona virus";
+                         var reply = "hello " +name+ " i can give you info on convid-19 <br> <br> press 1 for corona virus update <br> <br> press 2 for corona virus symptoms <br> <br> press 3 for safety tips <br> <br> press 4 for lagos update <br> <br> press 5 to know more about corona virus";
                      }
                    
                     var bot = "hng bot";
