@@ -58,3 +58,66 @@
 <span>hng bot</span>welcome j how may i help you
 <span>ll</span>j
 <span>hng bot</span>welcome ll how may i help you
+<span>hng bot</span>welcome ll how may i help you
+<span>ll</span> ji
+<span>hng bot</span>welcome ll how may i help you
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>leye</span>ll
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>leye</span> jgj
+<span>leye</span> 1
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>leye</span> 2
+<span>leye</span>2
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>leye</span> 2
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>lee</span>jo
+<span>lee</span> leee
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>lee</span>lo
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>lee</span>2
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>lee</span>1 
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>lee</span> 2
+<span>hng bot</span>press 1 for help /n press 2 for info /n
+<span>lee</span>1
+<span>hng bot</span>
+<span>lee</span>2
+<span>hng bot</span>
+<span>lee</span>as
+<span>hng bot</span>choose 1 0r 2
+<span>lee</span>1
+<span>hng bot</span>we have 5 in lag
+<span>lee</span> 1
+<span>hng bot</span>we have 5 in lag
+<span>lee</span> 1
+<span>hng bot</span>we have 5 in lag
+<span>lee</span> 2
+<span>hng bot</span>always wash your hand
+<span>lee</span> qw
+<span>hng bot</span>choose 1 0r 2
+<span>lee</span>as
+<span>hng bot</span>choose 1 for update  choose 2 for life
+<span>le</span>qw
+<span>hng bot</span>press 1 for update <br> choose 2 for life
+<span>qq</span>qw
+<span>hng bot</span>press 1 for update <br> <br> choose 2 for life
+<span>leye</span>hi
+<span>hng bot</span>hello leyei can give you info on convid-19 <br> <br> press 1 for corona virus update <br> <br> press 2 for corona virus symptoms <br> <br> press 3 for safety tips <br> <br> press 4 for lagos update <br> <br> press 5 to know more about corona virus
+<span>leye</span>ko
+<span>hng bot</span>hello leyei can give you info on convid-19 <br> <br> press 1 for corona virus update <br> <br> press 2 for corona virus symptoms <br> <br> press 3 for safety tips <br> <br> press 4 for lagos update <br> <br> press 5 to know more about corona virus
+<span>leye</span> 2
+<span>hng bot</span>fever, dry cough, tiredness, sore throat, headache
+<span>leye</span> 3
+<span>hng bot</span>stay at home <br> <br> always wash your hands <br> <br> social distancing
+<span>leye</span> 5
+<span>hng bot</span>corona virus is a deadly virus that attacks the respiratory system and symptoms shows after 2 weeks
+<span>hng bot</span>we have 19808 confirmed cases in nigeria
+<span>leye</span> 1
+<span>leye</span> 4
+<span>hng bot</span>There are 8704 confirmed cases in lagos

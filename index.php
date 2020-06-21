@@ -16,7 +16,7 @@
     <script type="text/javascript">
     
         // ask user for name with popup prompt    
-        var name = prompt("Enter your chat name:", "");
+        var name = prompt("Hi, what is your name?", "");
         
         // default name is 'Guest'
     	if (!name || name === ' ') {
@@ -59,7 +59,23 @@
 
     			  
                     var text = $(this).val();
-                    var reply = "welcome "+ name +" how may i help you";
+                  
+
+                    if (text == 1){
+                         var reply = "we have 19808 confirmed cases in nigeria";
+                     } else if (text == 2){
+                         var reply = "fever, dry cough, tiredness, sore throat, headache";
+                     } else if (text ==3) {
+                         var reply = "stay at home <br> <br> always wash your hands <br> <br> social distancing";
+                     } else if (text ==4) {
+                         var reply = "There are 8704 confirmed cases in lagos";
+                     } else if (text ==5) {
+                         var reply = "corona virus is a deadly virus that attacks the respiratory <br> <br> system and symptoms shows after 2 weeks";
+                     }
+                      else {
+                         var reply = "hello " +name+ "i can give you info on convid-19 <br> <br> press 1 for corona virus update <br> <br> press 2 for corona virus symptoms <br> <br> press 3 for safety tips <br> <br> press 4 for lagos update <br> <br> press 5 to know more about corona virus";
+                     }
+                   
                     var bot = "hng bot";
     				var maxLength = $(this).attr("maxlength");  
                     var length = text.length; 
@@ -91,8 +107,8 @@
 
     <div id="page-wrap">
     
-        <h3>Chat Bot</h3>
-        <p style="color: #fff;">By Adeleye.</p>
+        <h3>Covid-19 Chat Bot</h3>
+        <p style="color: #fff;">By @lexemmy</p>
         
         <p id="name-area"></p>
         
@@ -100,7 +116,7 @@
         
         <form id="send-message-area">
             <p>Your message: </p>
-            <textarea id="sendie" maxlength = '100' ></textarea>
+            <textarea id="sendie" maxlength = '100' placeholder="type something... press enter to send" ></textarea>
         </form>
     
     </div>
